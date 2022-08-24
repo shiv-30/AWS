@@ -1,0 +1,7 @@
+DISCLAIMER:
+
+Participants would be signing up for the AWS account (which has a Free Tier for 12 months) using their personal email id.
+
+Please be informed, once training completes, it is recommended that participants delete all their created artefacts on the AWS account and thereafter deactivate/close the account in order to avoid any charges later. 
+
+Persistent Systems Ltd. and the trainer do not accept any liability for charges the participants might incur, as a result of their service usage.
